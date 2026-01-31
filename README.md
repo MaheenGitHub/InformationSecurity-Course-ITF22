@@ -38,6 +38,10 @@ Resources related to **Bandit (OverTheWire)** practice:
 - Playlist
 - Activity notes
 
+### 🔹 Quiz
+- My quiz 3 solution
+
+
 ---
 
 ## 🎯 Who Is This Repo For?

@@ -15,6 +15,7 @@ The purpose of creating this repository is:
 Contains practice activities and command references related to Information Security topics.
 - Information Security Activities
 - commands.txt
+- Gandalf Lakera
 
 ### 🔹 FINALS
 Final-term reference material including:
